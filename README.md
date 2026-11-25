@@ -1,6 +1,6 @@
 # Cybersecurity Log Analysis & Threat Investigation
 
-**SQL Portfolio Project | MySQL | Tech Studio Academy 
+SQL Portfolio Project | MySQL 
 
 ## Project Overview
 Investigated cybersecurity login and alert records for **Northstar Services** (fictional) using MySQL. The analysis focuses on failed logins, IP reputation, employee and device activity, and unresolved security alerts to identify patterns requiring further review.
