@@ -1,7 +1,5 @@
-# Northstar Cybersecurity Threats and Investigations
-
 Cybersecurity Log Analysis & Threat Investigation
-SQL Portfolio Project | MySQL | Tech Studio Academy Group A
+SQL Portfolio Project | MySQL | Tech Studio Academy — Group A
 Project Overview
 Investigated cybersecurity login and alert records for Northstar Services (fictional) using MySQL. The analysis focuses on failed logins, IP reputation, employee and device activity, and unresolved security alerts to identify patterns requiring further review.
 Project Scope
@@ -15,7 +13,7 @@ Reusable reporting views	1
 Highest-failure dates specifically inspected	3
 
 
-Five tables: employees, devices, login_logs, ip reputation, security alerts.
+Five tables: employees, devices, login_logs, ip_reputation, security_alerts.
 Key Business Questions & Aggregations
 Area	Questions investigated	Aggregated outputs
 Login activity	How many logins succeeded or failed? When and for whom were failures highest?	Total logins; success/failure counts and percentages; failed logins by weekday, hour, employee
